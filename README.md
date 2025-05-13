@@ -1,19 +1,3 @@
-## Hi there 👋
-
-<!--
-**aubadev/aubadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # 👋 Hey, ich bin AuBa!
 ## 💻 Full Stack Web Developer
 ![Besucherzähler](https://komarev.com/ghpvc/?username=aubadev&color=blue)
@@ -30,7 +14,5 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aubadev&layout=compact&theme=radical)
 ### 🛠️ Aktuelle Projekte
 - [Meine Portfolio-Website](https://auba.dev) - Modern, responsiv und interaktiv
-- [Discord Music Bot](https://github.com/aubadev/MusicServer2.0) - Musikbot für Discord-Server
 ### 📫 Kontakt aufnehmen
 - Website: [auba.dev](https://auba.dev)
-- Discord: [AuBa's Discord](https://discord.gg/ps9WT636e2)
